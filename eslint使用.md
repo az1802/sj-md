@@ -30,7 +30,7 @@ global中一个个声明全局变量会比较繁琐，所以需要使用env设�
     "commonjs": true,
     "jquery": true
   }
-}
+}[]
 ```
 ### rules 
 自定义规则
