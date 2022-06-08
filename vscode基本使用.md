@@ -29,4 +29,3 @@
 + ctrl+alt+up/down 上下插入贯标
 + ctrl+空格  触发建议
 + 
-  
